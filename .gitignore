@@ -1,0 +1,6 @@
+node_modules/
+*.svg
+tailwind.config.js
+*.db
+index.css
+.vscode/
